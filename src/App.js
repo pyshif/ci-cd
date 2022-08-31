@@ -19,7 +19,7 @@ function App() {
                 </a>
                 <button onClick={
                     () => { console.log('Hi, React'); }
-                }>Click M</button>
+                }>Click Me</button>
             </header>
         </div>
     );
