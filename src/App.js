@@ -17,6 +17,9 @@ function App() {
                 >
                     Learn CI/CD
                 </a>
+                <button onClick={
+                    () => { console.log('Hi, React'); }
+                }>Click M</button>
             </header>
         </div>
     );
